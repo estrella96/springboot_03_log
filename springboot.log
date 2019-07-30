@@ -1,0 +1,13 @@
+2019-07-30 17:07:38.857  INFO 27975 --- [main] c.e.s.Springboot03LogApplicationTests    : Starting Springboot03LogApplicationTests on LYJ1996deMacBook-Pro.local with PID 27975 (started by lyj1996 in /Users/lyj1996/IdeaProjects/springboot_03_log)
+2019-07-30 17:07:38.858 DEBUG 27975 --- [main] c.e.s.Springboot03LogApplicationTests    : Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-30 17:07:38.860  INFO 27975 --- [main] c.e.s.Springboot03LogApplicationTests    : No active profile set, falling back to default profiles: default
+2019-07-30 17:07:40.466  INFO 27975 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$3460167b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-30 17:07:40.547  INFO 27975 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2019-07-30 17:07:41.554  INFO 27975 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-30 17:07:42.187  INFO 27975 --- [main] c.e.s.Springboot03LogApplicationTests    : Started Springboot03LogApplicationTests in 19.117 seconds (JVM running for 21.194)
+2019-07-30 17:07:42.653 TRACE 27975 --- [main] c.e.s.Springboot03LogApplicationTests    : 这是trace日志。。。
+2019-07-30 17:07:42.654 DEBUG 27975 --- [main] c.e.s.Springboot03LogApplicationTests    : 这是debug日志。。。
+2019-07-30 17:07:42.654  INFO 27975 --- [main] c.e.s.Springboot03LogApplicationTests    : 这是info日志。。。
+2019-07-30 17:07:42.654  WARN 27975 --- [main] c.e.s.Springboot03LogApplicationTests    : 这是warn日志。。。
+2019-07-30 17:07:42.655 ERROR 27975 --- [main] c.e.s.Springboot03LogApplicationTests    : 这是error日志。。。
+2019-07-30 17:07:42.667  INFO 27975 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
